@@ -200,7 +200,7 @@ li{
         margin: 2rem 0;
     }
     .foot-img{
-        max-width: 450px;
+        max-width: 400px;
         margin-bottom: 1rem;
     }
     .section.skills{
@@ -209,10 +209,10 @@ li{
     }  
     .image{
         position: relative;
-        left: 36.5%;
-         width: 10%;
+        left: 30%;
+         width: 20%;
      }
      .footer-logo{
-        margin-left: 30%;
+        margin-left: 28%;
     }
 }
