@@ -178,19 +178,26 @@ li{
     color: #7510F7;
 }
 
-
-/* # Phone */
-@media (max-width:320px){
+/* # Phone
+/* @media (max-width:320px){
     .hero-img{
         width: 150px;
         margin: 2rem 0;
     }
     .foot-img{
-        max-width: 200px;
+        max-width: 20px;
         margin-bottom: 1rem;
     }
     
-}
+} 
+
+@media only screen and (min-width: 480px){
+    .hero-img{
+        width: 150px;
+        margin: 2rem 0;
+    }
+} */
+
 
 /* #Tablet */
 
